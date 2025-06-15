@@ -1,4 +1,4 @@
-#  Missing Value Handling in Data Science
+#  Missing Value Handling
 
 This project demonstrates multiple techniques to handle **missing values** in datasets using Python. Handling missing data is a critical step in the data preprocessing pipeline.
 
